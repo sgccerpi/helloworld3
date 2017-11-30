@@ -1,4 +1,7 @@
 ²âÊÔÎÄµµ£¡
 test!
+git -c diff.mnemonicprefix=false -c core.quotepath=false push -v --tags --set-upstream origin master:master
+remote: Invalid username or password.
 
-really!!!
+origin master:master remote: Invalid username or password.
+rehellaly!!!
