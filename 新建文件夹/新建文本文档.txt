@@ -5,6 +5,3 @@ remote: Invalid username or password.
 
 origin master:master remote: Invalid username or password.
 rehellaly!!!
-
-
-i have got it!
